@@ -1,10 +1,8 @@
 # JapaneseNumberUnit
 
-[![Build Status](https://badgen.net/travis/blooper05/fog-k5?icon=travis)](https://travis-ci.com/blooper05/fog-k5)
 [![Dependency Status](https://badgen.net/dependabot/shuheiokuda0704/japanese_number_unit?icon=dependabot)](https://dependabot.com)
-[![Maintainability](https://badgen.net/codeclimate/maintainability/blooper05/fog-k5?icon=codeclimate)](https://codeclimate.com/github/blooper05/fog-k5)
-[![Coverage](https://badgen.net/codeclimate/coverage/blooper05/fog-k5?icon=codeclimate)](https://codeclimate.com/github/blooper05/fog-k5)
-[![Version](https://badgen.net/rubygems/v/fog-k5?icon=ruby)](https://rubygems.org/gems/fog-k5)
+[![Maintainability](https://badgen.net/codeclimate/maintainability/shuheiokuda0704/japanese_number_unit?icon=codeclimate)](https://codeclimate.com/github/shuheiokuda0704/japanese_number_unit)
+[![Version](https://badgen.net/rubygems/v/japanese_number_unit?icon=ruby)](https://rubygems.org/gems/japanese_number_unit)
 [![License](https://badgen.net/github/license/shuheiokuda0704/japanese_number_unit?icon=github)](https://github.com/shuheiokuda0704/japanese_number_unit/blob/master/LICENSE.txt)
 
 JapaneseNumberUnit gem extends Integer class to add japanese number unit as instance method.
